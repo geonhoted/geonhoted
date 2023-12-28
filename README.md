@@ -1,6 +1,7 @@
 <h1>Geonho Jang👋</h1>
 
 Korea University Undergraduate
+
 Architecture & Civil Engineering/Software Venture
 
 Data Analysis & AI
