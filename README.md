@@ -1,10 +1,10 @@
 <h1>Geonho Jang👋</h1>
 
 <h2>Korea University Undergraduate</h2>
-:도시:Architecture & Civil Engineering/Software Venture
+🌇Architecture & Civil Engineering/Software Venture
 
-#Data Analysis & AI
-#CIvil Engineering
+-Data Analysis & AI
+-Civil Engineering
 
 <!---
 geonhoted/geonhoted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
