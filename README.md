@@ -1,9 +1,10 @@
 <h1>Geonho Jang👋</h1>
 
-<h2>Korea University Undergraduate</h2>
+<h2>Korea University</h2> Undergraduate
 🌇Architecture & Civil Engineering/Software Venture
 
 -Data Analysis & AI
+
 -Civil Engineering
 
 <!---
