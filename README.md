@@ -8,6 +8,9 @@
 
 -Civil Engineering
 
+<h2>Certificate</h2>
+-SQL Developer (SQLD)
+
 <!---
 geonhoted/geonhoted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
