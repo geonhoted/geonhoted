@@ -11,6 +11,24 @@
 <h2>Certificate</h2>
 -SQL Developer (SQLD)
 
+<h2>STACK</h2>
+- **Programming Languages:**
+  - Python
+  - C
+  - Matlab
+  - Fortran
+
+- **Web Development:**
+  - HTML
+
+- **Databases:**
+  - SQL
+
+- **Tools:**
+  - Git
+  - GitHub
+  - Notion
+
 <!---
 geonhoted/geonhoted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
