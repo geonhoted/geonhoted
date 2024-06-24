@@ -1,4 +1,5 @@
 <h1>Geonho Jang👋</h1>
+CV : https://fine-tip-962.notion.site/Curriculum-Vitae-1b4cb2fe7ecf49e2b08fce3e0b8ef9eb?pvs=4
 
 <h3>Korea University Undergraduate</h3>
 🌇Architecture & Civil Engineering/Software Venture
